@@ -1,3 +1,5 @@
+/*Prepared a car showroom management system using Java (current project does not use SQL for data storage, that was done later with assistance) */
+
 import java.util.*;
 import java.lang.*;
 
